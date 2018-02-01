@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 17e81ff885c87464e933983829192815
+timeCreated: 1517170030
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sitka Small
+  fontNames:
+  - Sitka Small
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1383ed50ce7ecba4e9897663aed00cea, type: 3}
+  - {fileID: 12800000, guid: 273b99528cd3939468aa02aecbf8d43c, type: 3}
+  - {fileID: 12800000, guid: 0c2e6c8464707a74580626dc77be1784, type: 3}
+  - {fileID: 12800000, guid: 144964d5b06f1b04db75b44aeeb8d5dc, type: 3}
+  - {fileID: 12800000, guid: 2bdb3c37dc038634a89e08608623f231, type: 3}
+  - {fileID: 12800000, guid: 077760dc2dac1f440a56a04804fc4289, type: 3}
+  - {fileID: 12800000, guid: 256ebace509a2664e9195ef2f4671494, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

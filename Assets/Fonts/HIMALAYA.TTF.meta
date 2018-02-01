@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f3432c8f7cd24c744ba5414de3f8cd05
+timeCreated: 1517170750
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microsoft Himalaya
+  fontNames:
+  - Microsoft Himalaya
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

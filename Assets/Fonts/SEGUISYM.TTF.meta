@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 12c343cf8c3430b4880f2e227213272d
+timeCreated: 1517169528
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe UI Symbol
+  fontNames:
+  - Segoe UI Symbol
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

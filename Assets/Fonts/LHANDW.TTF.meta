@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 13effc60d434007449ffaf2366c0e6d0
+timeCreated: 1517169940
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lucida Handwriting
+  fontNames:
+  - Lucida Handwriting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

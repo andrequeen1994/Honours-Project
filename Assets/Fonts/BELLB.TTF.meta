@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5676cd37a3bc20646b7007ce09cfc04b
+timeCreated: 1517169761
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bell MT
+  fontNames:
+  - Bell MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 48ebf994a71a64a4c8272c85dfa619a9, type: 3}
+  - {fileID: 12800000, guid: 491ad6384abd58a4d87fa39714d861ef, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

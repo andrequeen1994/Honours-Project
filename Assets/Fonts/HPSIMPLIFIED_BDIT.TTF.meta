@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: fd29f9cf2f68dea4abff6f719f39b621
+timeCreated: 1517170752
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HP Simplified
+  fontNames:
+  - HP Simplified
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 49e15910f0f8dfd438dc139a18e8cad4, type: 3}
+  - {fileID: 12800000, guid: 4af1ec852e8913d479d57b1e73d1a0c4, type: 3}
+  - {fileID: 12800000, guid: 1de9b84acc2426644baec0680fa66ad1, type: 3}
+  - {fileID: 12800000, guid: 3d8d340c48c871a4585a9d609a33fe24, type: 3}
+  - {fileID: 12800000, guid: fa385b9fdef9a404889bf7793f8c7479, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

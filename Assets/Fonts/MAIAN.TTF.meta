@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 902022a7e6464d04e8cfa5299379219c
+timeCreated: 1517170492
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Maiandra GD
+  fontNames:
+  - Maiandra GD
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

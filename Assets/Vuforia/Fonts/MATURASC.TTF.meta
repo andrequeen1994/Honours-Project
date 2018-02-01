@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f6adb20bbf507724ebcad41d5fbb3b5c
+timeCreated: 1517171196
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Matura MT Script Capitals
+  fontNames:
+  - Matura MT Script Capitals
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 78ea819a0b2b3d442bfe655277f5b5f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

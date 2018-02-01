@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 63221b022a13f784ca94a61607e2fb4a
+timeCreated: 1517169767
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Poor Richard
+  fontNames:
+  - Poor Richard
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3f351321e6a9f3c468dfd9764f8a5dad
+timeCreated: 1517169682
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Papyrus
+  fontNames:
+  - Papyrus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

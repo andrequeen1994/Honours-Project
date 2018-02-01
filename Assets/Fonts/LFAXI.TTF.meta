@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e29d8580fd7d9914f921d04cd26e4db8
+timeCreated: 1517170747
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lucida Fax
+  fontNames:
+  - Lucida Fax
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 65389a27de2ebf948aef239d32b1d9eb, type: 3}
+  - {fileID: 12800000, guid: 6c3cacf81fb7ad1499e50daa96da40c8, type: 3}
+  - {fileID: 12800000, guid: b23d41de81627af42883ba32d53f499e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

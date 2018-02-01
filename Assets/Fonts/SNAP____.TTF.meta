@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b1ae45867327ae948aa5f4335ac3d1b9
+timeCreated: 1517170572
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Snap ITC
+  fontNames:
+  - Snap ITC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2c866551ae8f5374b85ee427dfc9500a
+timeCreated: 1517169680
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MS Gothic
+  fontNames:
+  - MS Gothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

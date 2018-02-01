@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0ea1c0ba46a1042498a7cd217558ee7b
+timeCreated: 1517171192
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Harlow Solid Italic
+  fontNames:
+  - Harlow Solid Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02422f0ead44ecc4786dc5b137a585fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

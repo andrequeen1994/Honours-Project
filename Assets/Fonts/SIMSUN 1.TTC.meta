@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2cff426939e33a446844e83a4f3fa3e5
+timeCreated: 1517169680
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SimSun
+  fontNames:
+  - SimSun
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

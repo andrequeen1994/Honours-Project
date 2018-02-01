@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7acd429ff4445784086ebd2cc4f9ed8d
+timeCreated: 1517170412
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AR BONNIE
+  fontNames:
+  - AR BONNIE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

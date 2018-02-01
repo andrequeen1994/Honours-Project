@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4d3dbe807030d4848b09cdbf0bc35d1e
+timeCreated: 1517170320
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MingLiU-ExtB
+  fontNames:
+  - MingLiU-ExtB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2a91c7d5fefc9c44a97448e50e8ea63c, type: 3}
+  - {fileID: 12800000, guid: 0b26a03608681a242ae9ea305bf4f5f8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

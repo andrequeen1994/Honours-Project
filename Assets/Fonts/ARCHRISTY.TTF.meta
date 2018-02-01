@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c19245922a92aa74797bc6468ed9dd0b
+timeCreated: 1517170574
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AR CHRISTY
+  fontNames:
+  - AR CHRISTY
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

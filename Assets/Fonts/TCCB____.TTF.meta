@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 003aa48d73bd51b488999c71c2705c62
+timeCreated: 1517169862
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tw Cen MT Condensed
+  fontNames:
+  - Tw Cen MT Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 48422ac7d29431e42aacbdc667af13ea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
