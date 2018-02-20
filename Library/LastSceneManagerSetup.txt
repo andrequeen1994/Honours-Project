@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ArTRMinimum.unity
+- path: Assets/ImageRecogWithEffects.unity
   isLoaded: 1
   isActive: 1

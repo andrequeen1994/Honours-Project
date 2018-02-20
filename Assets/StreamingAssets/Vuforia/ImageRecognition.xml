@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ross" size="1.000000 1.000000" />
+    <ImageTarget name="Vodka" size="0.600000 0.600000" />
+    <ImageTarget name="Class_C" size="0.600000 0.657576" />
+    <ImageTarget name="Class_B" size="0.600000 0.657576" />
+    <ImageTarget name="Class_A_FE" size="0.600000 0.657576" />
+    <ImageTarget name="irritant" size="0.500000 0.500000" />
+    <ImageTarget name="human-health" size="0.400000 0.400000" />
+    <ImageTarget name="flammable" size="0.400000 0.400000" />
+    <ImageTarget name="explosive" size="0.500000 0.500000" />
+    <ImageTarget name="Rekorderlig" size="0.500000 0.967662" />
+    <ImageTarget name="Fire_Exit" size="0.500000 0.168689" />
+  </Tracking>
+</QCARConfig>

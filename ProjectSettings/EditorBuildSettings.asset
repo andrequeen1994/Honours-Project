@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/ARTextRecogTest.unity
     guid: 96c2d4bd40a6fe540b0c40ad17b6cdf9
-  - enabled: 1
+  - enabled: 0
     path: Assets/ArTRMinimum.unity
     guid: 447014565a49ab4409b9fe0b86bae597
+  - enabled: 0
+    path: Assets/ImageRecognition.unity
+    guid: cb96d17418cdf74439224cb276d3205f
+  - enabled: 1
+    path: Assets/ImageRecogWithEffects.unity
+    guid: 38a118ade843b9c49941b41b73abd877
